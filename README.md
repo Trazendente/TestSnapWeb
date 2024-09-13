@@ -1,2 +1,1 @@
-# TestSnapWeb
- 
+# camera_kit_demo
